@@ -3,11 +3,11 @@
     <property name="created">2018-04-26T15:30:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-10-03T13:18:29</property>
+    <property name="modified">2018-10-03T13:26:53</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_COPIED" value="73c990" />
+    <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_HIJACKED" value="b28c00" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_MERGED" value="569e16" />
