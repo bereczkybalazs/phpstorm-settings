@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.0-pre1" />
+    <option name="version" value="2.9.0" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="accentColor" value="ff55aa" />
     <option name="userId" value="c03e519:165f2266858:-7fff" />
