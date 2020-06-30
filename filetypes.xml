@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".dockerignoer" type="PLAIN_TEXT" />
+      <mapping pattern=".status.example" type="PLAIN_TEXT" />
+      <mapping pattern=".status" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
