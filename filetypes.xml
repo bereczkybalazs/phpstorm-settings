@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignoer" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
